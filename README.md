@@ -18,7 +18,9 @@
 
 ###
 
-<p align="left">* Artificial Intelligence<br>* Database<br>* Fintech</p>
+  * Artificial Intelligence
+  * Database
+  * Fintech
 
 ###
 
