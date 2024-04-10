@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Interest within IT</h2>
+<h2 align="left">Interests within IT</h2>
 
 ###
 
@@ -22,11 +22,11 @@
 
 ###
 
-<h2 align="left">Interest outside IT</h2>
+<h2 align="left">Interests outside IT</h2>
 
 ###
 
-<p align="left">* Economy<br>
+<p align="left">*Economy<br>
   * History<br>* Playing piano</p>
 
 ###
