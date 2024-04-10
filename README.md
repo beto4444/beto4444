@@ -6,6 +6,7 @@ My name is Bartłomiej Stępniewski and I am a student of Computer Science and I
 1. Created in Java programming language "GRAPHen" designed for generating and visualising graphs(with my fellow from University),<br>
 2. Created the epidemic simulator, also with my two buddys from Uni,<br>
 3. Created myself the AI model which distinguish reviews as positive or negative
+
 <br>See below!
 
 ###
