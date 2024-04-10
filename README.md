@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">* Economy<br>* History<br>* Playing piano</p>
+<p align="left">* Economy<br>
+  * History<br>* Playing piano</p>
 
 ###
 
