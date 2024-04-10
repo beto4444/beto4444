@@ -2,7 +2,10 @@
 
 ###
 
-My name is Bartłomiej Stępniewski and I am a student of Computer Science and Intelligent Systems at AGH University of Science and Technology.<br><br>In the last time I have made few interesting projects:<br>1. Created in Java programming language "GRAPHen" designed for generating and visualising graphs(with my fellow from University),<br>2. Created the epidemic simulator, also with my two buddys from Uni,<br>3. Created myself the AI model which distinguish reviews as positive or negative<br><br>See below!
+My name is Bartłomiej Stępniewski and I am a student of Computer Science and Intelligent Systems at AGH University of Science and Technology.<br><br>In the last time I have made few interesting projects:<br>
+1. Created in Java programming language "GRAPHen" designed for generating and visualising graphs(with my fellow from University),<br>
+2. Created the epidemic simulator, also with my two buddys from Uni,<br>
+3. Created myself the AI model which distinguish reviews as positive or negative<br><br>See below!
 
 ###
 
