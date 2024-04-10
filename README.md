@@ -25,10 +25,9 @@
 <h2 align="left">Interests outside IT</h2>
 
 ###
-
-<p align="left">*Economy<br>
-  * History<br>* Playing piano</p>
-
+  * Economy
+  * History<br>
+  * Playing piano
 ###
 
 <h2 align="left">I code with</h2>
